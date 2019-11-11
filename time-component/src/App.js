@@ -3,7 +3,7 @@ import './App.css';
 import Timer from './Time';
 
 
-const timeMs = "60000"
+const timeMs = 455
 
 function App() {
   return (

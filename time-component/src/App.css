@@ -5,20 +5,20 @@
     line-height: 10px;
 }
 h1{
-    font-size: 60px;
+    font-size: 55px;
    
 }
 p{
-    font-size: 18px;
+    font-size: 20px;
     margin: 0px;
     color: gray;
    
 }
 .format {
-    width: 20%;
+    width: 21%;
     display: flex;
     justify-content: space-around;
-    padding-left: 552px;
+    padding-left: 540px;
   
     
 }
